@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/hasanwhitesource/dummy-repo-2/smith"
+	"github.com/qaseleniumtesting01/Go-dummy-repo-2/smith"
 )
 
 func main(){
